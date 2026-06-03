@@ -1,0 +1,6 @@
+Info: item added to cart
+Info: item moved to order
+Info: item added to wishlist
+ERROR: item not viewable
+Info: item shipped
+ERROR: item not added to cart
